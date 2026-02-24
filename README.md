@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atividade Prática - Fashion Store (Consumo de API REST)
 
 Nesta atividade, você será responsável por implementar a lógica JavaScript de um site completo de e-commerce (Fashion Store) utilizando a **Platzi Fake Store API** (`https://api.escuelajs.co/api/v1/`).
@@ -43,3 +44,10 @@ Base URL: `https://api.escuelajs.co/api/v1`
 3. Utilize a extensão **Live Server** (do VS Code) para abrir as páginas no navegador simulando um servidor real, evitando problemas com CORS.
 
 Mão na massa e bom código!
+=======
+# Fashion Store
+
+Projeto desenvolvido para avaliação prática com foco em consumo de API, manipulação de DOM e JavaScript.
+
+Os dados dos produtos são consumidos da API pública: **EscuelaJS API**
+>>>>>>> fa169eed3bba0ff00a3488622a3e1ceaab67c3ca
